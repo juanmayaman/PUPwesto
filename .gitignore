@@ -1,0 +1,58 @@
+# PHP
+vendor/
+composer.lock
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Database
+*.sql
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build directories
+dist/
+build/
+public/hot/
+
+# Logs and databases
+/log/
+*.log
+*.sql
+*.sqlite
+
+# Configuration files that may contain sensitive information
+config.php
+db_connect.php
+!config/db_connect.example.php
+
+# Backup files
+*.bak
+*.backup 
