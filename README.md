@@ -99,9 +99,6 @@ PUPwesto/
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 For inquiries and support:
 - Email: pupwesto@gmail.com
@@ -114,5 +111,9 @@ For inquiries and support:
 - XAMPP development team
 - All contributors to this project
 
----
-© 2025 Polytechnic University of the Philippines. All rights reserved. 
+## Authors
+- Joanne Aldover
+- Ed Marcel Lasco
+- Sophia Lizarondo
+- Charles Lucas
+- John Rich Nicolas
